@@ -27,7 +27,7 @@ Built this as a personal project to actually understand how RAG works — ended 
 
 **1. Clone the repo and go into the folder**
 ```bash
-git clone <(https://github.com/nanditanishanth777/ragproj.git)>
+git clone <https://github.com/nanditanishanth777/ragproj.git>
 cd ragproj
 ```
 
